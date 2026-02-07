@@ -37,6 +37,7 @@ export default function RootLayout({
   return (
     <html lang="pt-br">
       <head>
+        <script src="https://cdn.jsdelivr.net/npm/clappr@0.3.13/dist/clappr.min.js" defer></script>
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-CNYVW7F51R"
           strategy="afterInteractive"

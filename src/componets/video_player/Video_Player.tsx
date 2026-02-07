@@ -7,10 +7,6 @@ function Video_Player({ link }: { link: string }) {
   return (
     <>
       <div id="player" style={{ width: "100%", height: "100%" }}></div>
-      <Script
-        src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js"
-        strategy="beforeInteractive"
-      />
       <Script strategy="afterInteractive">
         {`
           if (window.Clappr) {
