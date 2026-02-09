@@ -39,7 +39,7 @@ export default function RootLayout({
       <head>
         <script src="https://cdn.jsdelivr.net/npm/clappr@0.3.13/dist/clappr.min.js" defer></script>
         <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-CNYVW7F51R"
+          src="https://www.googletagmanager.com/gtag/js?id=G-EE3JQHNF34"
           strategy="afterInteractive"
         />
 
@@ -49,7 +49,7 @@ export default function RootLayout({
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
 
-            gtag('config', 'G-CNYVW7F51R');
+            gtag('config', 'G-EE3JQHNF34');
           `}
         </Script>
       </head>
