@@ -37,6 +37,11 @@ export default function RootLayout({
   return (
     <html lang="pt-br">
       <head>
+        <link
+          rel="canonical"
+          href={baseUrl}
+          key="canonical"
+        />
         <script src="https://cdn.jsdelivr.net/npm/clappr@0.3.13/dist/clappr.min.js" defer></script>
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-EE3JQHNF34"
