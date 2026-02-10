@@ -2,6 +2,45 @@ import getChannels from "@/functions/getChanels"
 import styles from "./Pesquisar.module.css"
 import Post_Card from "@/componets/post_card/Post_Card"
 import { normalize } from "path"
+import { Metadata } from "next"
+
+// Gerar metadados para bloquear indexação
+export async function generateMetadata({ 
+    searchParams 
+}: { 
+    searchParams: { q: string } 
+}): Promise<Metadata> {
+    const { q } = await searchParams
+    
+    return {
+        title: q ? `Resultados para: ${q}` : "Pesquisa",
+        description: q 
+            ? `Resultados da pesquisa por "${q}"`
+            : "Página de pesquisa",
+        // IMPEDIR INDEXAÇÃO
+        robots: {
+            index: false,
+            follow: false,
+            nocache: true,
+            googleBot: {
+                index: false,
+                follow: false,
+                noimageindex: true,
+                'max-snippet': -1,
+            },
+        },
+        // Canonical para evitar conteúdo duplicado
+        alternates: {
+            canonical: '/pesquisar',
+        },
+        // Outras meta tags para crawlers
+        other: {
+            'google': 'nopagereadaloud',
+            'googlebot-news': 'noindex',
+            'bingbot': 'noindex, nofollow',
+        }
+    }
+}
 
 async function page({ searchParams }: { searchParams: { q: string } }) {
     const data = await getChannels()
@@ -14,6 +53,7 @@ async function page({ searchParams }: { searchParams: { q: string } }) {
 
         return (item.includes(query)||item.includes(normalize(query))||category?.includes(query))
     })
+    
     if (results?.length === 0) {
         return (
             <section className={styles.not_found_term}>
@@ -21,6 +61,7 @@ async function page({ searchParams }: { searchParams: { q: string } }) {
             </section>
         )
     }
+    
     return (
         <main className={styles.results}>
             <h1 className="h1">Resultados para: {q}</h1>

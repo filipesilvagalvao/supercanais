@@ -39,7 +39,7 @@ export default async function Home({ searchParams }: {
 
   return (
     <main className={styles.page}>
-      <h1 className='h1'>Uma extensa lista de canais</h1>
+      <h2 className='h1'>TV online</h2>
       <section className={styles.page__content}>
         <div className={styles.page__posts}>
           {
@@ -59,8 +59,14 @@ export default async function Home({ searchParams }: {
         </div>
 
         <div className={styles.page__text}>
-          <p>Este site oferece uma extensa lista de canais e webcanais de várias categorias, procuramos não exibir conteúdos que contenha direitos autorais mas apenas <strong>conteúdos livres</strong>. O Supercanais exibe canais de tv local, webtv que mostra desenhos, programação nostágica, notícias, filmes, séries e demais da tv aberta.</p>
-          <p>Caso encontre algum canal que <strong>inflige direitos autorais</strong>, nos peça para remover pelo <a href="https://t.me/thiagotavares123" target='_blank'><strong>telegram</strong></a>: <a href="https://t.me/thiagotavares123" target='_blank'><i className="fa-brands fa-telegram"></i>Thiago Tavares</a></p>
+          <p>
+            Este site oferece uma ampla seleção de canais e webcanais de diversas categorias. Nosso compromisso é disponibilizar apenas <strong>conteúdos livres</strong>, evitando a exibição de materiais protegidos por direitos autorais. O Supercanais reúne canais de TV local e WebTVs com programação variada, incluindo desenhos, conteúdos nostálgicos, notícias, filmes, séries e atrações da TV aberta.
+          </p>
+
+          <p>
+            O site também conta com uma barra de pesquisa para facilitar a navegação, permitindo buscar canais por nome ou categoria, além de links organizados por temas.
+          </p>
+
         </div>
 
       </section>
