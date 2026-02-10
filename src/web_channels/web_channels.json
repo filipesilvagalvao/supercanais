@@ -80,7 +80,7 @@
     "title": "Band",
     "cover": "rede-bandeirantes.webp",
     "m3u8": "https://hplay.tv/augetv/12396547488/131.m3u8",
-    "text": null,
+    "text": "O Canal Bandeirantes, popularmente conhecido como Band, é uma das emissoras de televisão mais tradicionais do Brasil. Fundada em 1967 pelo Grupo Bandeirantes de Comunicação, a rede construiu sua história com uma programação diversificada, que incluiu grandes sucessos no jornalismo, como o icônico Jornal da Band, e no entretenimento, com novelas e programas de auditório. Ao longo das décadas, a Band também se destacou na cobertura esportiva, especialmente com transmissões de automobilismo, consolidando-se como a casa do esporte a motor no país. Com uma identidade marcada por inovação e adaptação às mudanças no cenário midiático, a Band permanece como um canal importante, buscando relevância no competitivo mercado da televisão aberta brasileira.",
     "category": "TV Aberta"
   },
   {
@@ -115,14 +115,14 @@
     "title": "TV Guajará",
     "cover": "tv-guajara.webp",
     "m3u8": "https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8",
-    "text": null,
+    "text": "TV Guajará: Emissora afiliada à TV Globo no estado do Pará, a TV Guajará é uma das principais referências em jornalismo e entretenimento na região Norte, com sede em Belém. Seu noticiário local, especialmente o 'Bom Dia Pará' e o 'Pará TV', cobre os acontecimentos mais importantes da Amazônia, conectando a realidade local à programação nacional da rede líder.",
     "category": "TV Aberta"
   },
   {
     "title": "TV WTJ Minas",
     "cover": "tv-wtj-minas.webp",
     "m3u8": "https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8",
-    "text": null,
+    "text": "TV WTJ Minas: Canal religioso cristão que atua no estado de Minas Gerais, a TV WTJ tem sua programação focada em cultos, pregações, programas de música gospel e conteúdo de formação doutrinária. Seu objetivo é levar a mensagem evangélica aos lares, sendo uma ferramenta de evangelização e edificação para sua comunidade de fiéis.",
     "category": "WebTV"
   },
   {
@@ -143,21 +143,21 @@
     "title": "TV Pampa",
     "cover": "tv-pampa.webp",
     "m3u8": "https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8",
-    "text": null,
+    "text": "TV Pampa: Com forte tradição no extremo sul do Brasil, a TV Pampa é afiliada à RedeTV! e cobre a região da fronteira do Rio Grande do Sul com o Uruguai, sediada em Bagé. Sua programação é marcada pelo jornalismo regional, que destaca as particularidades do pampa gaúcho, e pela transmissão de eventos esportivos locais, fortalecendo a identidade cultural da campanha.",
     "category": "TV Aberta"
   },
   {
     "title": "QTal? Channel",
     "cover": "qtal-channel.webp",
     "m3u8": "https://s1.tvr.ovh/video13340/video13340/playlist.m3u8",
-    "text": null,
+    "text": "QTal? Channel: Canal de televisão por assinatura e streaming, o QTal? Channel se dedica à produção de conteúdo original brasileiro de alta qualidade, como séries, documentários, reality shows e programas de entrevistas. Com uma proposta ousada e moderna, busca oferecer uma alternativa à programação das grandes redes, investindo em produções nacionais diversificadas.",
     "category": "Filmes"
   },
   {
     "title": "TV AM",
     "cover": "tv-am.webp",
     "m3u8": "https://stmv1.srvsite.com/tvam/tvam/playlist.m3u8",
-    "text": null,
+    "text": "TV AM: Esta é uma referência genérica ao espectro de transmissão em Amplitude Modulada (AM), utilizado principalmente por emissoras de rádio. Muitas emissoras de TV educativas ou comunitárias no Brasil, em seus primórdios, utilizavam a sigla TV seguida da frequência em AM (ex: TV AM 1.210). Hoje, pode se referir a canais locais que mantêm essa nomenclatura histórica.",
     "category": "WebTV"
   },
   {
@@ -199,14 +199,14 @@
     "title": "Gospel Movie TV",
     "cover": "gospel-movie-tv.webp",
     "m3u8": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
-    "text": null,
+    "text": "Gospel Movie TV: Como o próprio nome indica, este é um canal especializado em filmes e produções audiovisuais com temática cristã evangélica. Sua programação é composta por longas-metragens, séries e documentários que apresentam histórias de fé, superação e valores familiares, direcionados ao público que consome entretenimento com mensagem religiosa.",
     "category": "Filmes"
   },
   {
     "title": "Reviva TV",
     "cover": "reviva-tv.webp",
     "m3u8": "https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8",
-    "text": null,
+    "text": "Reviva TV: Pertence ao Grupo Communità (Igreja Comunidade Evangélica), liderada pelo apóstolo Estevam Hernandes. A Reviva TV é uma rede nacional de televisão religiosa com programação 24h, transmitindo cultos ao vivo da sede em São Paulo, programas de variedades, notícias sob uma perspectiva cristã e conteúdo musical gospel, com forte presença na TV aberta e por assinatura.",
     "category": "Séries"
   },
   {
@@ -220,7 +220,7 @@
     "title": "TV Diário do Sertão",
     "cover": "tv-diario-do-sertao.webp",
     "m3u8": "https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8",
-    "text": null,
+    "text": "TV Diário do Sertão: Emissora com atuação no interior do Nordeste, especialmente no sertão, a TV Diário do Sertão é um veículo essencialmente regional e jornalístico. Seu foco é informar sobre os acontecimentos políticos, sociais e econômicos das cidades do interior, dando voz e visibilidade a uma região que muitas vezes é negligenciada pela mídia das capitais.",
     "category": "Variedades"
   },
   {
@@ -276,21 +276,21 @@
     "title": "TV Metrópole",
     "cover": "tv-metropole.webp",
     "m3u8": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8",
-    "text": null,
+    "text": "TV Metrópole: Afiliada à TV Bahia (Globo) em Salvador, a TV Metrópole é um dos principais canais de televisão do estado. Seu jornalismo é reconhecido pela cobertura aprofundada dos fatos que impactam a capital e o interior baiano, com destaque para programas como o Metrópole Notícias, sendo uma referência na informação para toda a Bahia.",
     "category": "Educação"
   },
   {
     "title": "Araruna TV",
     "cover": "araruna-tv.webp",
     "m3u8": "https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8",
-    "text": null,
+    "text": "Araruna TV: Emissora local da cidade de Araruna, no estado da Paraíba. Como canal comunitário, sua missão é servir à população da região, veiculando notícias municipais, programas de entrevistas com líderes locais, cobertura de eventos culturais e esportivos, funcionando como um espelho da comunidade e um importante meio de comunicação democrático.",
     "category": "TV Local"
   },
   {
     "title": "TVE",
     "cover": "tve-rs.webp",
     "m3u8": "https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8",
-    "text": null,
+    "text": "TVE: Sigla para Televisão Educativa, é utilizada por várias emissoras públicas estaduais no Brasil. A mais conhecida é a TVE Brasil (agora TV Brasil), mas estados como Rio Grande do Sul e Bahia têm suas próprias TVs Educativas. São canais com programação cultural, educativa, infantil e jornalística de interesse público, sem comerciais, mantidas pelo poder público.",
     "category": "Educação"
   },
   {
@@ -304,7 +304,7 @@
     "title": "TV Metropolitana Rio",
     "cover": "tv-metropolitana-rio.webp",
     "m3u8": "https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8",
-    "text": null,
+    "text": "TV Metropolitana Rio: Emissora com atuação na região metropolitana do Rio de Janeiro, provavelmente de caráter local ou comunitário. Sua programação deve focar em notícias, entretenimento e serviços para os bairros e municípios da grande Rio, oferecendo uma perspectiva mais próxima do cidadão em relação aos grandes canais da capital.",
     "category": "WebTV"
   },
   {
@@ -325,21 +325,21 @@
     "title": "TV One",
     "cover": "tv-one.webp",
     "m3u8": "https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8",
-    "text": null,
+    "text": "TV One: Canal de televisão por assinatura brasileiro, parte do grupo da RedeTV!. A TV One tem sua programação voltada para o público masculino, com foco em esportes (como futebol, MMA e pesca), reality shows, seriados de ação e entretenimento, buscando ocupar um nicho específico dentro do mercado de TV paga.",
     "category": "Variedades"
   },
   {
     "title": "RedeTV! Rondônia",
     "cover": "redetv-rondonia.webp",
     "m3u8": "https://5b33b873179a2.streamlock.net:1443/canal17/livestream/playlist.m3u8",
-    "text": null,
+    "text": "RedeTV! Rondônia: Afiliada da RedeTV! no estado de Rondônia, leva a programação nacional da rede (como o Programa do Ratinho e A Tarde É Sua) para o público local, intercalando com blocos de notícias e produções próprias que abordam os assuntos de interesse específico da população rondoniense.",
     "category": "TV Aberta"
   },
   {
     "title": "TV Ponta da Serra",
     "cover": "tv-ponta-da-serra.webp",
     "m3u8": "https://ikki.hubcloud.tv.br/PontadaSerra/index.m3u8",
-    "text": null,
+    "text": "TV Ponta da Serra: Nome típico de canais comunitários ou locais, geralmente referente a uma localidade ou bairro. A TV Ponta da Serra provavelmente atende uma comunidade específica, veiculando informações hiperlocais, debates sobre problemas da região, divulgação de eventos e programação religiosa, exercendo um papel fundamental no tecido social local.",
     "category": "Variedades"
   },
   {
@@ -374,14 +374,14 @@
     "title": "WebTV Campeão de Tudo",
     "cover": "webtv-campeao-de-tudo.webp",
     "m3u8": "https://stmv1.paineldevideo.com.br/claudiorlp/claudiorlp/playlist.m3u8",
-    "text": null,
+    "text": "WebTV Campeão de Tudo: Como uma WebTV, seu alcance é predominantemente pela internet. O nome sugere uma programação voltada para o entretenimento popular, talvez com foco em música sertaneja, gospel ou programas de auditório online. A internet permite que ela atinja um público nichado e interaja diretamente com ele através de plataformas digitais.",
     "category": "WebTV"
   },
   {
     "title": "TVitapê",
     "cover": "tvitape.webp",
     "m3u8": "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8",
-    "text": null,
+    "text": "TVitapê: Emissora local da região de Itapetininga, no interior de São Paulo. Canais como a TVitapê são vitais para a cobertura jornalística municipal e regional, trazendo notícias sobre administração pública, segurança, educação, agricultura e cultura, sendo o principal elo de informação entre os moradores das cidades do interior paulista.",
     "category": "WebTV"
   },
   {
@@ -409,7 +409,7 @@
     "title": "TV Beltrão",
     "cover": "tv-beltrao.webp",
     "m3u8": "https://video04.logicahost.com.br/tvbeltrao/tvbeltrao/playlist.m3u8",
-    "text": null,
+    "text": "TV Beltrão: Canal com atuação na cidade de Francisco Beltrão, no Paraná. Deve ser uma emissora comunitária ou comercial local, responsável por produzir conteúdo relevante para os moradores da região sudoeste do estado, incluindo jornalismo, programação religiosa e a transmissão de eventos esportivos e culturais municipais.",
     "category": "Educação"
   },
   {
@@ -437,21 +437,21 @@
     "title": "Alpha Channel",
     "cover": "alpha-channel.webp",
     "m3u8": "https://isaocorp.cloudecast.com/alphachannel/index.fmp4.m3u8",
-    "text": null,
+    "text": "Alpha Channel: Nome que sugere um canal com identidade própria e posicionamento de vanguarda (alpha significa primeiro). Pode ser um canal generalista independente, de TV por assinatura, ou até uma produtora de conteúdo, com uma programação que busca se diferenciar pelo formato ou pela qualidade de suas produções.",
     "category": "Variedades"
   },
   {
     "title": "TV Thaity",
     "cover": "tv-thaity.webp",
     "m3u8": "https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8",
-    "text": null,
+    "text": "TV Thaity: Pelo nome, possivelmente um canal local ou comunitário, talvez com algum vínculo familiar ou com uma personalidade específica (Thaity). Sua programação provavelmente atende a uma comunidade ou cidade de porte médio, com foco em notícias locais, programas de variedades e conteúdo de interesse regional.",
     "category": "TV Local"
   },
   {
     "title": "TV Carioca",
     "cover": "tv-carioca.webp",
     "m3u8": "https://video04.logicahost.com.br/cariocainternacional/cariocainternacional/playlist.m3u8",
-    "text": null,
+    "text": "TV Carioca: Nome que evoca diretamente a identidade do Rio de Janeiro. Pode ser um canal local, comunitário ou mesmo um canal por assinatura focado na cultura, no cotidiano e nas notícias da cidade do Rio de Janeiro, celebrando e discutindo os temas que são caros aos moradores da Cidade Maravilhosa.",
     "category": "WebTV"
   },
   {
@@ -465,35 +465,35 @@
     "title": "TV Brasil Oeste",
     "cover": "tv-brasil-oeste.webp",
     "m3u8": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8",
-    "text": null,
+    "text": "TV Brasil Oeste: Emissora com atuação no Centro-Oeste brasileiro, provavelmente em Mato Grosso ou Mato Grosso do Sul. Seu nome indica uma cobertura regional, levando notícias, entretenimento e jornalismo para os estados do interior, com atenção especial aos temas ligados ao agronegócio, que é a base econômica da região.",
     "category": "Variedades"
   },
   {
     "title": "TV Nova Esperança",
     "cover": "tv-nova-esperanca.webp",
     "m3u8": "https://5cf4a2c2512a2.streamlock.net/tvnovaesperanca/tvnovaesperanca/playlist.m3u8",
-    "text": null,
+    "text": "TV Nova Esperança: Nome comum para canais com forte ligação com igrejas ou comunidades cristãs (Nova Esperança é um conceito bíblico). É provável que seja um canal religioso, transmitindo cultos, programas de estudo bíblico e músicas gospel, com o objetivo de oferecer uma mensagem de fé e esperança ao seu público.",
     "category": "Religiosos"
   },
   {
     "title": "38 News",
     "cover": "38-news.webp",
     "m3u8": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8",
-    "text": null,
+    "text": "38 News: A nomenclatura numérica seguida de News é típica de canais de notícias por assinatura (como a CNN ou a BBC). O 38 pode ser uma referência ao número do canal em uma operadora de TV a cabo específica. Seria um canal dedicado à cobertura jornalística contínua, com boletins, debates e reportagens ao longo do dia.",
     "category": "TV Local"
   },
   {
     "title": "WebTV Evangelizar",
     "cover": "webtv-evangelizar.webp",
     "m3u8": "https://stmv1.paineldevideo.com.br/claudiorlp4/claudiorlp4/playlist.m3u8",
-    "text": null,
+    "text": "WebTV Evangelizar: Mais uma WebTV com missão declaradamente religiosa. Seu foco principal é a evangelização através da internet, transmitindo pregações, testemunhos, música sacra e programação doutrinária para alcançar fiéis não apenas localmente, mas em qualquer lugar com acesso à web.",
     "category": "Religiosos"
   },
   {
     "title": "Paraná Turismo",
     "cover": "parana-turismo.webp",
     "m3u8": "https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8",
-    "text": null,
+    "text": "Paraná Turismo: Canal segmentado dedicado a promover as belezas, a cultura, a gastronomia e as oportunidades de lazer do estado do Paraná. Sua programação é composta por documentários, reportagens especiais e guias de viagem, servindo tanto como atrativo para turistas quanto como fonte de informação e valorização para os paranaenses.",
     "category": "Educação"
   },
   {
@@ -528,14 +528,14 @@
     "title": "Tela Brasil TV",
     "cover": "tela-brasil-tv.webp",
     "m3u8": "https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8",
-    "text": null,
+    "text": "Tela Brasil TV: Canal de TV por assinatura pertencente ao grupo Bandeirantes, focado em entretenimento familiar. Sua programação inclui séries internacionais, filmes, reality shows e programas de variedades, com uma curadoria que busca oferecer opções de lazer para todas as idades dentro de um contexto familiar.",
     "category": "Séries"
   },
   {
     "title": "Via Morena",
     "cover": "via-morena.webp",
     "m3u8": "https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8",
-    "text": null,
+    "text": "Via Morena: Nome que faz referência ao estado de Mato Grosso do Sul, conhecido como Estado Morena. É provavelmente um canal regional que cobre o território sul-mato-grossense, com programação jornalística e cultural que resgata e valoriza as tradições locais, como a música sertaneja raiz e a cultura pantaneira.",
     "category": "WebTV"
   },
   {
@@ -556,14 +556,14 @@
     "title": "TV Ti Vejo",
     "cover": "tv-ti-vejo.webp",
     "m3u8": "https://stmv1.srvif.com/ddacostenaro/ddacostenaro/playlist.m3u8",
-    "text": null,
+    "text": "TV Ti Vejo: Nome criativo e interativo para um canal, sugerindo proximidade e visibilidade (Ti Vejo é uma variação de Te Vejo). Pode ser um canal comunitário, educativo ou mesmo um projeto de TV universitária que busca dar voz à comunidade e mostrar realidades que não são abordadas pela grande mídia.",
     "category": "WebTV"
   },
   {
     "title": "TV Omindaré",
     "cover": "tv-omindare.webp",
     "m3u8": "https://video01.kshost.com.br/lourdes52007/lourdes52007/playlist.m3u8",
-    "text": null,
+    "text": "TV Omindaré: Nome de origem africana (iorubá), que pode estar ligado a projetos de valorização da cultura negra, afro-brasileira ou de matriz religiosa como o Candomblé e a Umbanda. Seria um canal com programação cultural, educativa e religiosa dedicado a combater o racismo e promover a diversidade étnico-racial.",
     "category": "WebTV"
   },
   {
@@ -577,14 +577,14 @@
     "title": "RS News Sports",
     "cover": "rafael-saraiva-sports.webp",
     "m3u8": "https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8",
-    "text": null,
+    "text": "RS News Sports: Canal segmentado dedicado exclusivamente aos esportes no Rio Grande do Sul. Deve cobrir competições estaduais de futebol (como o Campeonato Gaúcho), além de outros esportes como basquete, voleibol e as tradições do interior, como os rodeios, servindo de ponto de encontro para os torcedores gaúchos.",
     "category": "Esportes"
   },
   {
     "title": "TV Camaragibe Agora",
     "cover": "tv-camaragibe-agora.webp",
     "m3u8": "https://5c483b9d1019c.streamlock.net/camaragibeagoratv/camaragibeagoratv/playlist.m3u8",
-    "text": null,
+    "text": "TV Camaragibe Agora: Canal local da cidade de Camaragibe, na região metropolitana do Recife, Pernambuco. O Agora no nome sugere um forte viés jornalístico e de instantaneidade. Sua missão é informar sobre o dia a dia do município, a administração pública e os eventos comunitários.",
     "category": "TV Local"
   },
   {
@@ -598,14 +598,14 @@
     "title": "TV ABC Brasil",
     "cover": "tv-abc-brasil.webp",
     "m3u8": "https://stmv1.srvstm.com/abc7891/abc7891/playlist.m3u8",
-    "text": null,
+    "text": "TV ABC Brasil: Pode ser uma emissora com atuação na região do ABC Paulista (Santo André, São Bernardo, São Caetano) ou um canal com nome genérico que busca uma identidade nacional. Se for regional, seu foco é a cobertura industrial, sindical e comunitária de uma das principais regiões econômicas do país.",
     "category": "Variedades"
   },
   {
     "title": "Demais TV",
     "cover": "demais-tv.webp",
     "m3u8": "https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8",
-    "text": null,
+    "text": "Demais TV: Nome que chama a atenção pela informalidade (Demais). Sugere um canal com programação descontraída, voltada para o entretenimento jovem, com música, humor, reality shows e conteúdo de internet, buscando um tom moderno e conectado com as tendências atuais.",
     "category": "WebTV"
   },
   {
@@ -619,14 +619,14 @@
     "title": "TV Maceió Agora",
     "cover": "tv-maceio.webp",
     "m3u8": "https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8",
-    "text": null,
+    "text": "TV Maceió Agora: Similar à TV Camaragibe Agora, mas com foco na capital alagoana, Maceió. É um canal com forte presença no jornalismo local, provavelmente afiliado a uma rede ou independente, que busca ser a fonte primária de notícias sobre a cidade, com reportagens investigativas e cobertura política.",
     "category": "Variedades"
   },
   {
     "title": "TV Pombal",
     "cover": "tv-pombal.webp",
     "m3u8": "https://a.cdni.live/alex6065/alex6065/playlist.m3u8",
-    "text": null,
+    "text": "TV Pompal: Nome peculiar que pode ser uma junção de termos ou uma referência local. Possivelmente um canal comunitário ou de baixo alcance em alguma cidade do interior. Sua programação é voltada para o cotidiano de uma comunidade específica, com produção própria e simplificada.",
     "category": "WebTV"
   },
   {
@@ -640,7 +640,7 @@
     "title": "TV Vitória PE",
     "cover": "tv-vitoria-pe.webp",
     "m3u8": "https://5c483b9d1019c.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8",
-    "text": null,
+    "text": "TV Vitória PE: Emissora da cidade de Vitória de Santo Antão, no estado de Pernambuco. Como canal local, é responsável por cobrir os eventos da cidade, realizar entrevistas com autoridades locais e veicular programas de interesse dos moradores, fortalecendo o senso de comunidade e a participação cidadã.",
     "category": "Religiosos"
   },
   {
@@ -654,7 +654,7 @@
     "title": "Lavras TV",
     "cover": "lavras-webtv-ce.webp",
     "m3u8": "https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8",
-    "text": null,
+    "text": "Lavras TV: Canal da cidade de Lavras, no sul de Minas Gerais, região conhecida pela presença de universidades e pela agricultura. A Lavras TV provavelmente tem uma programação que mistura jornalismo local, conteúdo educativo (por conta da UFLA) e divulgação científica e cultural produzida na cidade.",
     "category": "Variedades"
   },
   {
@@ -668,7 +668,7 @@
     "title": "Classique TV Western",
     "cover": "classique-tv-western.webp",
     "m3u8": "https://stmv2.painelvideocast.com.br/classiquew/classiquew/playlist.m3u8",
-    "text": null,
+    "text": "Classique TV Western: Canal segmentado especializado no gênero western (faroeste). Sua programação é dedicada a exibir filmes clássicos e seriados de cowboys, além de documentários sobre a história do Velho Oeste, atendendo a um público fã desse gênero específico do cinema e da televisão.",
     "category": "Filmes"
   },
   {
@@ -682,42 +682,42 @@
     "title": "TV Brasil Esperança",
     "cover": "tvbe.webp",
     "m3u8": "https://stmv1.samcast.com.br/junior5083/junior5083/playlist.m3u8",
-    "text": null,
+    "text": "TV Brasil Esperança: Nome que une referência nacional (Brasil) com um termo comum em canais religiosos (Esperança). É muito provavelmente um canal evangélico de abrangência nacional ou regional, com programação baseada em cultos, pregações e músicas gospel, oferecendo uma mensagem de fé cristã.",
     "category": "Educação"
   },
   {
     "title": "SE Connection",
     "cover": "se-connection.webp",
     "m3u8": "https://video01.logicahost.com.br/sergio/sergio/playlist.m3u8",
-    "text": null,
+    "text": "SE Connection: SE é a sigla do estado de Sergipe. Portanto, trata-se de um canal com foco na conexão dos sergipanos, seja dentro do estado ou aqueles que vivem fora. Deve ter programação que mistura notícias locais, cultura (como o forró pé de serra) e entrevistas, buscando integrar a comunidade sergipana.",
     "category": "WebTV"
   },
   {
     "title": "TV Galega",
     "cover": "tv-galega.webp",
     "m3u8": "https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8",
-    "text": null,
+    "text": "TV Galega: Nome que faz referência à Galícia, região da Espanha, indicando um canal comunitário ou cultural voltado para descendentes de imigrantes galegos no Brasil (com forte presença no Sul), ou simplesmente um nome distintivo para um canal local em alguma cidade brasileira.",
     "category": "WebTV"
   },
   {
     "title": "Novo Tempo",
     "cover": "novo-tempo.webp",
     "m3u8": "https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8",
-    "text": null,
+    "text": "Novo Tempo: Rede de televisão religiosa pertencente à Igreja Adventista do Sétimo Dia. Sua programação é educativa, familiar e doutrinária, com ênfase em saúde, qualidade de vida, estudos bíblicos e programas infantis. É uma das redes religiosas com maior capilaridade e produção profissional no país.",
     "category": "Religiosos"
   },
   {
     "title": "TV Jundiaí Hoje",
     "cover": "tv-jundiai-hoje.webp",
     "m3u8": "https://stmv2.samcast.com.br/rosanaa9913/rosanaa9913/playlist.m3u8",
-    "text": null,
+    "text": "TV Jundiaí Hoje: Canal de notícias hiperlocal da cidade de Jundiaí, no interior de São Paulo. O Hoje reforça o caráter de atualidade e serviço. É o canal para onde os moradores da cidade buscam informações sobre trânsito, política municipal, segurança e eventos culturais locais.",
     "category": "WebTV"
   },
   {
     "title": "TV CINEC",
     "cover": "tv-cinec.webp",
     "m3u8": "https://video07.logicahost.com.br/tvcinec/tvcinec/playlist.m3u8",
-    "text": null,
+    "text": "TV CINEC: Nome que sugere um canal dedicado ao cinema (CINEC lembra cinema e cine). Pode ser um canal por assinatura focado na exibição de filmes, curtas-metragens brasileiros, documentários sobre a sétima arte e programas de crítica cinematográfica, para um público cinéfilo.",
     "category": "Variedades"
   },
   {
@@ -738,28 +738,28 @@
     "title": "Opinião Play",
     "cover": "opiniao-play.webp",
     "m3u8": "https://video04.logicahost.com.br/tvpopular/tvpopular/playlist.m3u8",
-    "text": null,
+    "text": "Opinião Play: Mais do que um canal linear tradicional, soa como uma plataforma de streaming ou um canal por assinatura interativo. O nome indica um espaço para debates, análises e a expressão de diferentes pontos de vista sobre política, cultura e sociedade, possivelmente com formatos mais longos e profundos.",
     "category": "Variedades"
   },
   {
     "title": "TV Conectada",
     "cover": "tv-conectada-brasil.webp",
     "m3u8": "https://5cf4a2c2512a2.streamlock.net/tvconectada/tvconectada/playlist.m3u8",
-    "text": null,
+    "text": "TV Conectada: Nome que reflete a era digital, a TV Conectada pode ser tanto um canal linear focado em tecnologia e inovação quanto um serviço de streaming ou IPTV que agrega diversos conteúdos em uma única plataforma. Sua proposta está centrada na integração entre televisão e internet, oferecendo interatividade, video on demand e uma experiência de visualização mais personalizada para o telespectador moderno.",
     "category": "WebTV"
   },
   {
     "title": "TV Passo Fundo",
     "cover": "tv-passo-fundo.webp",
     "m3u8": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8",
-    "text": null,
+    "text": "TV Passo Fundo: Emissora com atuação na importante cidade de Passo Fundo, no norte do Rio Grande do Sul. Como canal regional, sua programação é essencial para cobrir os acontecimentos políticos, econômicos, culturais e esportivos dessa relevante região gaúcha, servindo como principal meio de informação local e afiliada de alguma rede nacional.",
     "category": "WebTV"
   },
   {
     "title": "TV Rio Madeira",
     "cover": "tv-rio-madeira.webp",
     "m3u8": "https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8",
-    "text": null,
+    "text": "TV Rio Madeira: Emissora que atua no estado de Rondônia, região banhada pelo Rio Madeira, um dos principais afluentes do Amazonas. Seu nome evoca a identidade geográfica e econômica local. A programação provavelmente inclui jornalismo focado nos temas da Amazônia ocidental, como hidrovias, agricultura e os desafios das populações ribeirinhas.",
     "category": "TV Local"
   },
   {
@@ -773,14 +773,14 @@
     "title": "Rede Gospel",
     "cover": "rede-gospel.webp",
     "m3u8": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8",
-    "text": null,
+    "text": "Rede Gospel: Rede de televisão nacional dedicada integralmente ao público evangélico. Sua programação é composta por cultos transmitidos ao vivo de grandes igrejas, programas de entrevistas com líderes religiosos, videoclipes de música gospel, filmes com temática cristã e telejornais com uma perspectiva baseada em valores da fé.",
     "category": "Religiosos"
   },
   {
     "title": "TV Otimista",
     "cover": "tv-otimista.webp",
     "m3u8": "https://5a7bcfb834237.directradios.net/otimista/livestream/playlist.m3u8",
-    "text": null,
+    "text": "TV Otimista: Canal que carrega em seu nome uma proposta editorial e de programação. Deve priorizar conteúdos inspiradores, de superação, empreendedorismo e boas notícias, buscando oferecer uma alternativa ao sensacionalismo e um refúgio otimista para o telespectador, possivelmente com foco em desenvolvimento pessoal e soluções para a comunidade.",
     "category": "Variedades"
   },
   {
@@ -794,14 +794,14 @@
     "title": "TV Cultura",
     "cover": "tv-cultura.webp",
     "m3u8": "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8",
-    "text": null,
+    "text": "TV Cultura: Fundação Padre Anchieta, a TV Cultura de São Paulo é uma das principais emissoras públicas e educativas do Brasil, referência em qualidade e conteúdo. Com programação infantil aclamada (como o Cocoricó), jornalismo cultural, debates de alto nível e uma vasta produção de documentários e séries, é um patrimônio da televisão brasileira, mantida pelo governo do estado.",
     "category": "Educação"
   },
   {
     "title": "Canal TV Rio",
     "cover": "canal-tv-rio.webp",
     "m3u8": "https://cdn.live.br1.jmvstream.com/webtv/canaltvrio/playlist/playlist.m3u8",
-    "text": null,
+    "text": "Canal TV Rio: Canal local ou regional com atuação na cidade do Rio de Janeiro ou no estado do Rio de Janeiro. Pode ser um veículo independente que produz conteúdo sobre a vida carioca, com reportagens sobre turismo, cultura, problemas urbanos e entretenimento, destacando as particularidades da capital fluminense e seu entorno.",
     "category": "Variedades"
   },
   {
@@ -815,28 +815,28 @@
     "title": "TV Poços",
     "cover": "tv-pocos.webp",
     "m3u8": "https://video01.logicahost.com.br/tvpocos/tvpocos/playlist.m3u8",
-    "text": null,
+    "text": "TV Poços: Emissora da cidade de Poços de Caldas, no sul de Minas Gerais. Como canal local em uma importante cidade turística e termal, sua programação deve equilibrar a cobertura jornalística municipal com a divulgação dos atrativos da região, eventos culturais e o dia a dia de uma comunidade com forte identidade mineira.",
     "category": "Educação"
   },
   {
     "title": "TV TodoDia",
     "cover": "tv-tododia.webp",
     "m3u8": "https://br5093.streamingdevideo.com.br/dehujsezdd/dehujsezdd/playlist.m3u8",
-    "text": null,
+    "text": "TV TodoDia: Nome que sugere um canal com programação generalista e contínua, voltado para o entretenimento familiar e o cotidiano. Pode exibir séries, filmes, programas de variedades e revistas eletrônicas num ritmo ágil, com a proposta de ser uma companhia constante e despretensiosa para o telespectador ao longo de todo o dia",
     "category": "Variedades"
   },
   {
     "title": "TV Guarapari",
     "cover": "tv-guarapari.webp",
     "m3u8": "https://ikki.hubcloud.tv.br/TVGuarapari/index.m3u8",
-    "text": null,
+    "text": "TV Guarapari: Canal local da cidade litorânea de Guarapari, no Espírito Santo. Sua missão é informar os moradores sobre os assuntos do município, desde a administração pública até o movimento turístico, além de promover a cultura local e os eventos comunitários, sendo uma voz essencial para essa cidade praiana.",
     "category": "TV Local"
   },
   {
     "title": "TV Petrópolis",
     "cover": "tv-petropolis.webp",
     "m3u8": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8",
-    "text": null,
+    "text": "TV Petrópolis: Emissora da cidade imperial de Petrópolis, na região serrana do Rio de Janeiro. Um canal como este é fundamental para cobrir os temas específicos da cidade, como turismo histórico, eventos da temporada de inverno, política local e as questões ambientais ligadas à Serra dos Órgãos.",
     "category": "Variedades"
   },
   {
@@ -850,14 +850,14 @@
     "title": "ConecTV",
     "cover": "conectv.webp",
     "m3u8": "https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8",
-    "text": null,
+    "text": "ConecTV: Nome abreviado e moderno que evoca conexão. Pode ser um canal comunitário, universitário ou independente que prioriza a conexão entre as pessoas da região, dando voz a movimentos sociais, coletivos culturais e cidadãos comuns, através de programas de debate, entrevistas e produção audiovisual local.",
     "category": "Variedades"
   },
   {
     "title": "Canal Ricos",
     "cover": "canal-ricos.webp",
     "m3u8": "https://a.cdni.live/tvcanalricos/tvcanalricos/playlist.m3u8",
-    "text": null,
+    "text": "Canal Ricos: Nome provocativo que pode se referir a um canal segmentado para o público de alto poder aquisitivo, com programação sobre luxo, investimentos, estilo de vida e negócios. Alternativamente, pode ser um canal humorístico ou irônico, ou ainda estar ligado a uma localidade ou família com esse sobrenome.",
     "category": "WebTV"
   },
   {
@@ -885,21 +885,21 @@
     "title": "Rede Mundo TV",
     "cover": "rede-mundo-tv.webp",
     "m3u8": "https://video03.logicahost.com.br/redemundotvsat/redemundotvsat/playlist.m3u8",
-    "text": null,
+    "text": "Rede Mundo TV: Possivelmente uma rede de televisão por assinatura com programação generalista internacional ou com foco em notícias globais. O nome sugere uma cobertura de alcance mundial, podendo exibir documentários, séries estrangeiras e telejornais com correspondentes internacionais, trazendo o mundo para a tela do brasileiro.",
     "category": "Variedades"
   },
   {
     "title": "TV Nova Nordeste",
     "cover": "tv-nova-nordeste.webp",
     "m3u8": "https://acesso.ecast.site:3675/live/novatvlive.m3u8",
-    "text": null,
+    "text": "TV Nova Nordeste: Emissora com atuação e identidade voltadas para a região Nordeste do Brasil. Seu objetivo é produzir e veicular conteúdo que represente a cultura, os desafios e as conquistas do povo nordestino, muitas vezes em contraposição à visão estereotipada ou marginalizada apresentada pelas redes sediadas no Sudeste.",
     "category": "TV Local"
   },
   {
     "title": "TV Empire no ar",
     "cover": "empire-no-ar.webp",
     "m3u8": "https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8",
-    "text": null,
+    "text": "TV Empire no ar: Nome enigmático que pode indicar um canal independente, talvez ligado ao entretenimento pop, cinema (remetendo ao Império de Star Wars) ou a um projeto audiovisual específico. O no ar reforça seu status de emissora ativa, possivelmente com uma programação nichada e uma identidade marcante para seu público.",
     "category": "Variedades"
   },
   {
@@ -913,21 +913,21 @@
     "title": "TV Caravelas",
     "cover": "tv-caravelas.webp",
     "m3u8": "https://video09.logicahost.com.br/tvcaravelas/tvcaravelas/playlist.m3u8",
-    "text": null,
+    "text": "TV Caravelas: Emissora da cidade de Caravelas, no extremo sul da Bahia, porta de entrada para o Arquipélago de Abrolhos. Como canal local em uma região de grande importância ecológica, sua programação deve abordar temas como pesca, preservação ambiental, turismo ecológico e a vida na costa baiana.",
     "category": "Variedades"
   },
   {
     "title": "TV J.SID",
     "cover": "tv-jsid.webp",
     "m3u8": "https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8",
-    "text": null,
+    "text": "TV J.SID: Nome que sugere forte personalidade, possivelmente ligado a um apresentador, artista ou produtor conhecido pelas iniciais J.SID. Deve ser um canal com programação baseada em seu idealizador, podendo variar entre entretenimento, música, entrevistas ou conteúdo de opinião, com um tom autoral e distinto.",
     "category": "WebTV"
   },
   {
     "title": "RedeTV! Paraná",
     "cover": "rede-tv-parana.webp",
     "m3u8": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8",
-    "text": null,
+    "text": "RedeTV! Paraná: Afiliada da RedeTV! no estado do Paraná, sediada em Curitiba ou em outra grande cidade. Leva a programação nacional da rede (de auditório, variedades e jornalismo) ao público paranaense, intercalada com blocos locais que abordam as notícias e os interesses específicos do estado.",
     "category": "TV Aberta"
   },
   {
@@ -941,35 +941,35 @@
     "title": "Mkk WebTV",
     "cover": "mkk-webtv.webp",
     "m3u8": "https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8",
-    "text": null,
+    "text": "Mkk WebTV: Uma WebTV, portanto, de transmissão exclusiva pela internet. As iniciais Mkk podem ser uma marca ou sigla pessoal. Sua programação é flexível e pode abranger desde conteúdos de games, vlogs e entretenimento juvenil até programas de nicho, aproveitando o alcance e a interatividade da rede mundial.",
     "category": "Cultura"
   },
   {
     "title": "TV Brasil Central",
     "cover": "tbc.webp",
     "m3u8": "https://5a1c76baf08c0.streamlock.net/tbc/tbc/playlist.m3u8",
-    "text": null,
+    "text": "TV Brasil Central: Emissora com atuação na região do Centro-Oeste brasileiro, possivelmente com sede em Goiás ou no Distrito Federal. Seu nome declara sua vocação: cobrir os acontecimentos dos estados do coração do país, com foco em Brasília (política nacional), no agronegócio e na cultura sertaneja.",
     "category": "Educação"
   },
   {
     "title": "TV Brusque",
     "cover": "tv-brusque.webp",
     "m3u8": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8",
-    "text": null,
+    "text": "TV Brusque: Canal local da cidade de Brusque, em Santa Catarina, cidade com forte colonização alemã e uma sólida base industrial têxtil. Sua programação reflete essa identidade, cobrindo notícias municipais, eventos da comunidade (como a Oktoberfest) e os negócios locais, sendo um elo vital para os brusquenses.",
     "category": "Variedades"
   },
   {
     "title": "Fonte TV",
     "cover": "fonte-tv.webp",
     "m3u8": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/playlist.m3u8",
-    "text": null,
+    "text": "Fonte TV: Nome que transmite a ideia de origem, confiabilidade e jornalismo (fonte de informação). Pode ser um canal de notícias local ou regional que prioriza a apuração séria e a reportagem investigativa, buscando se consolidar como a fonte primária e confiável de informação para sua área de atuação.",
     "category": "Religiosos"
   },
   {
     "title": "TV Evangelizar",
     "cover": "tv-evangelizar.webp",
     "m3u8": "https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8",
-    "text": null,
+    "text": "TV Evangelizar: Canal religioso cristão cujo nome explicita sua missão principal: a evangelização através da mídia. Sua grade é preenchida por programas de cunho doutrinário, transmissão de cultos, testemunhos de fé e música gospel, visando converter e edificar fiéis em sua caminhada espiritual.",
     "category": "Religiosos"
   },
   {
@@ -983,7 +983,7 @@
     "title": "TV Araguaia",
     "cover": "tv-araguaia.webp",
     "m3u8": "https://stmv1.samcast.com.br/cezaraugusto5116/cezaraugusto5116/playlist.m3u8",
-    "text": null,
+    "text": "TV Araguaia: Emissora com forte identidade regional, nomeada em homenagem ao Rio Araguaia, que banha os estados de Goiás, Mato Grosso, Tocantins e Pará. Provavelmente sediada em Goiás, sua programação celebra a cultura do cerrado, com ênfase na música sertaneja, nos rodeios e nos temas do interior.",
     "category": "Agropecuária"
   },
   {
@@ -997,14 +997,14 @@
     "title": "TV Preve",
     "cover": "tv-preve.webp",
     "m3u8": "https://video01.kshost.com.br:4443/paulispar7372/paulispar7372/playlist.m3u8",
-    "text": null,
+    "text": "TV Preve: Nome sucinto que pode ser uma abreviação ou marca registrada. Sugere um canal com programação direta, talvez focada em utilidade pública, previsões (como tempo, trânsito) ou conteúdos práticos (preve como em prover ou prever). Pode ser um canal de serviço à comunidade.",
     "category": "Educação"
   },
   {
     "title": "TV A Folha",
     "cover": "tva.webp",
     "m3u8": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8",
-    "text": null,
+    "text": "TV A Folha: Possivelmente um canal ligado ao jornal A Folha de algum estado (como a Folha de S.Paulo) ou a um jornal local com esse nome. Seria um canal de notícias que estende a marca e a credibilidade do jornal impresso para o audiovisual, com análise, entrevistas e cobertura jornalística aprofundada.",
     "category": "Cultura"
   },
   {
@@ -1039,7 +1039,7 @@
     "title": "TV Séries",
     "cover": "tv-series.webp",
     "m3u8": "https://stmv2.painelvideocast.com.br/tvseries/tvseries/playlist.m3u8",
-    "text": null,
+    "text": "TV Séries: Canal segmentado por assinatura dedicado exclusivamente à exibição de séries de televisão nacionais e internacionais. Sua programação é voltada para os fãs do formato seriado, com maratonas, lançamentos, séries clássicas e programas de bastidores, sendo um destino certo para quem busca narrativas longas.",
     "category": "Séries"
   },
   {
@@ -1053,14 +1053,14 @@
     "title": "TV Centro Sul",
     "cover": "tv-centro-sul.webp",
     "m3u8": "https://5c483b9d1019c.streamlock.net/tvcentrosul/tvcentrosul/playlist.m3u8",
-    "text": null,
+    "text": "TV Centro Sul: Emissora com atuação na região centro-sul de algum estado ou do país. O nome indica uma cobertura regional que abrange múltiplas cidades ou microrregiões, com programação jornalística que busca integrar e informar essa área específica, destacando suas particularidades econômicas e culturais.",
     "category": "TV Local"
   },
   {
     "title": "TV Ibiapabana",
     "cover": "tv-ibiapabana.webp",
     "m3u8": "https://stmv1.duvoxtv.com.br/gamer/gamer/playlist.m3u8",
-    "text": null,
+    "text": "TV Ibiapabana: Emissora da Serra da Ibiapaba, região localizada no norte do Ceará e no sul do Piauí. Este canal é a voz de uma região montanhosa e turística, focando na cultura local, na agricultura familiar, no clima peculiar da serra e nos atrativos naturais, fortalecendo a identidade dos ibiapabanos.",
     "category": "WebTV"
   },
   {
@@ -1081,21 +1081,21 @@
     "title": "Ypê TV",
     "cover": "ype-tv.webp",
     "m3u8": "https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8",
-    "text": null,
+    "text": "Ypê TV: Nome que remete à marca brasileira de produtos de limpeza, sugerindo que seja um canal corporativo ou patrocinado pela empresa Ypê. Sua programação poderia incluir conteúdo educativo, sobre sustentabilidade, cidadania ou entretenimento familiar, sempre associado aos valores da marca patrocinadora.",
     "category": "WebTV"
   },
   {
     "title": "Canal do Criador",
     "cover": "canal-do-criador.webp",
     "m3u8": "https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador/playlist.m3u8",
-    "text": null,
+    "text": "Canal do Criador: Nome que aponta diretamente para a plataforma YouTube ou para o universo dos content creators. Deve ser um canal que either agrega os melhores vídeos de criadores digitais brasileiros em uma grade linear ou é dedicado a documentar e ensinar sobre a profissão de criador de conteúdo.",
     "category": "Agropecuária"
   },
   {
     "title": "TVC Bauru",
     "cover": "tvc-bauru.webp",
     "m3u8": "https://video09.logicahost.com.br/tvbauru/tvbauru/playlist.m3u8",
-    "text": null,
+    "text": "TVC Bauru: TV Comunitária de Bauru, no interior de São Paulo. Como uma emissora comunitária legalizada, sua função é servir à população bauruense com programação plural, educativa, cultural e jornalística local, dando espaço para vozes diversificadas da sociedade e operando sem fins lucrativos comerciais.",
     "category": "WebTV"
   },
   {
@@ -1116,35 +1116,35 @@
     "title": "Sim Notícias",
     "cover": "sim-noticias.webp",
     "m3u8": "https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8",
-    "text": null,
+    "text": "Sim Notícias: Canal de notícias com nome que transmite assertividade e confirmação (Sim). Busca ser uma fonte direta e objetiva de informação, possivelmente com boletins curtos e constantes, focando nos fatos principais do dia no âmbito local, estadual ou nacional, com linguagem clara e acessível.",
     "category": "Notícias"
   },
   {
     "title": "TV Velhos Tempos",
     "cover": "tv-velhos-tempos.webp",
     "m3u8": "https://srv1.zcast.com.br/joaodepaula5617/joaodepaula5617/playlist.m3u8",
-    "text": null,
+    "text": "TV Velhos Tempos: Canal nostálgico dedicado a resgatar a programação clássica da televisão brasileira. Deve exibir novelas, programas de auditório, seriados e comerciais antigos das décadas de 1960 a 1990, atraindo um público saudosista que deseja reviver a era de ouro do rádio e da TV.",
     "category": "WebTV"
   },
   {
     "title": "O Fato Maringá",
     "cover": "o-fato-maringa.webp",
     "m3u8": "https://video04.logicahost.com.br/ofatomaringa/ofatomaringa/playlist.m3u8",
-    "text": null,
+    "text": "O Fato Maringá: Canal de notícias hiperlocal da cidade de Maringá, no Paraná. O Fato no nome indica um compromisso com a apuração factual e o jornalismo investigativo. É o principal meio para os maringaenses se informarem sobre política local, segurança, economia e eventos da cidade.",
     "category": "TV Local"
   },
   {
     "title": "Retrô Cartoon 2",
     "cover": "retro-cartoon-2.webp",
     "m3u8": "https://stmv2.painelvideocast.com.br/retrotv/retrotv/playlist.m3u8",
-    "text": null,
+    "text": "Retrô Cartoon 2: Canal segmentado especializado em desenhos animados clássicos. O 2 no nome pode indicar uma segunda faixa de programação ou um canal irmão de um Retrô Cartoon original. Sua grade é repleta de animações das décadas de 1980, 1990 e 2000, cativando tanto adultos nostálgicos quanto crianças.",
     "category": "Desenhos"
   },
   {
     "title": "Band News",
     "cover": "band-news.webp",
     "m3u8": "https://hplay.tv/augetv/12396547488/1300.m3u8",
-    "text": null,
+    "text": "Band News: Primeiro canal de notícias 24 horas por assinatura do Brasil, pertencente ao Grupo Bandeirantes. É uma referência em jornalismo contínuo, com boletins atualizados a cada meia hora, debates econômicos e políticos, e cobertura ao vivo de grandes eventos, mantendo um perfil mais enxuto e informativo.",
     "category": "Notícias"
   },
   {
@@ -1165,21 +1165,21 @@
     "title": "SBT SP",
     "cover": "sbt-sp.webp",
     "m3u8": "https://aovivo.maissbt.com/channel_1080.m3u8",
-    "text": null,
+    "text": "SBT SP: Sinal local do Sistema Brasileiro de Televisão para a cidade de São Paulo. Enquanto o sinal nacional vai para todo o país, o SBT SP pode veicular comerciais e eventualmente pequenos blocos de conteúdo regionalizados para a Grande São Paulo, sendo a base de operações da rede.",
     "category": "TV Aberta"
   },
   {
     "title": "WebTV CR",
     "cover": "webtv-cr.webp",
     "m3u8": "https://stmv1.paineldevideo.com.br/teste/teste/playlist.m3u8",
-    "text": null,
+    "text": "WebTV CR: WebTV cujas iniciais CR podem ter diversos significados, como as iniciais de seu fundador, referência a Câmara dos Deputados (CR é sigla para Casa Civil em alguns contextos) ou a um local (ex: Campo Redondo). É uma emissora online com programação livre, que pode variar de conteúdo comunitário a entretenimento específico.",
     "category": "WebTV"
   },
   {
     "title": "TV Alternativa",
     "cover": "tv-alternativa.webp",
     "m3u8": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8",
-    "text": null,
+    "text": "TV Alternativa: Canal que se propõe a oferecer uma programação fora do mainstream, valorizando produções independentes, debates de ideias marginais, cultura underground e perspectivas que não encontram espaço nas grandes emissoras. É um veículo para a diversidade de pensamento e expressão artística.",
     "category": "Variedades"
   },
   {
@@ -1200,7 +1200,7 @@
     "title": "Teleweb TV",
     "cover": "teleweb-tv.webp",
     "m3u8": "https://video01.kshost.com.br/acessweb7837/acessweb7837/playlist.m3u8",
-    "text": null,
+    "text": "Teleweb TV: Nome que funde os conceitos de televisão e web, indicando uma emissora que nasceu ou migrou integralmente para o ambiente digital. Sua operação é prioritariamente online, com transmissão ao vivo pela internet e programação que pode variar de entretenimento a jornalismo, aproveitando a interatividade da rede.",
     "category": "Desenhos"
   },
   {
@@ -1214,7 +1214,7 @@
     "title": "TV Tropical",
     "cover": "tv-tropical.webp",
     "m3u8": "https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8",
-    "text": null,
+    "text": "TV Tropical: Emissora com nome que evoca o clima, a alegria e a cultura brasileira. Sua programação pode ser generalista, com forte apelo no entretenimento popular, música (como axé, forró e pagode), programas de auditório e novelas, celebrando um espírito descontraído e festivo associado aos trópicos.",
     "category": "TV Aberta"
   },
   {
@@ -1263,7 +1263,7 @@
     "title": "Giro TV News",
     "cover": "giro-tv-news.webp",
     "m3u8": "https://video09.logicahost.com.br/giroserra/giroserra/playlist.m3u8",
-    "text": null,
+    "text": "Giro TV News: Canal de notícias com foco na agilidade e na cobertura abrangente. O Giro no nome sugere uma varredura por todas as editorias, oferecendo ao telespectador um panorama rápido e dinâmico dos principais fatos do dia no cenário local, nacional e, eventualmente, internacional.",
     "category": "Notícias"
   },
   {
@@ -1298,7 +1298,7 @@
     "title": "TV do Povo",
     "cover": "tv-do-povo.webp",
     "m3u8": "https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8",
-    "text": null,
+    "text": "TV do Povo: Nome que carrega uma forte conotação de serviço público e representatividade popular. Geralmente associada a canais comunitários ou a emissoras com uma linha editorial voltada para as causas sociais, denúncias e a valorização da voz das periferias e das classes trabalhadoras.",
     "category": "Cultura"
   },
   {
@@ -1312,7 +1312,7 @@
     "title": "Unique Sports",
     "cover": "unique-sports.webp",
     "m3u8": "https://pop.uniquetv.com.br/uniquesports1/video.m3u8",
-    "text": null,
+    "text": "Unique Sports: Canal esportivo segmentado que promete uma cobertura única. Pode se especializar em um esporte específico menos abordado (como rugby, hockey ou esportes radicais) ou oferecer um tratamento diferenciado aos esportes tradicionais, com análises aprofundadas e produções exclusivas.",
     "category": "Esportes"
   },
   {
@@ -1361,7 +1361,7 @@
     "title": "Face TV",
     "cover": "face-tv.webp",
     "m3u8": "https://video10.logicahost.com.br/formosa/formosa/playlist.m3u8",
-    "text": null,
+    "text": "Face TV: Nome que pode ter duplo sentido: remeter à cara (face) de apresentadores ou personalidades, indicando um canal de entrevistas e perfis; ou ser uma referência à rede social Facebook, sugerindo um conteúdo integrado com as redes, voltado para o público jovem e digital.",
     "category": "WebTV"
   },
   {
@@ -1389,14 +1389,14 @@
     "title": "TV Candidés",
     "cover": "tv-candides.webp",
     "m3u8": "https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8",
-    "text": null,
+    "text": "TV Candidés: Nome que provavelmente faz referência à região ou à cultura dos índios Candidés, possivelmente no estado do Espírito Santo ou Minas Gerais. Seria um canal com forte viés cultural e educativo, dedicado a preservar e divulgar a história e as tradições indígenas locais.",
     "category": "Variedades"
   },
   {
     "title": "Caravelas TV",
     "cover": "webtv-caravelas.webp",
     "m3u8": "https://video01.logicahost.com.br/dantetvbrasil/dantetvbrasil/playlist.m3u8",
-    "text": null,
+    "text": "Caravelas TV: Similar à TV Caravelas, é a emissora da cidade histórica e portuária de Caravelas, na Bahia. Seu foco está na vida comunitária, na pesca, no turismo ecológico relacionado ao Parque Nacional Marinho de Abrolhos e nos desafios de uma cidade no extremo sul da costa baiana.",
     "category": "WebTV"
   },
   {
@@ -1410,14 +1410,14 @@
     "title": "Real Madrid TV",
     "cover": "real-madrid-tv.webp",
     "m3u8": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8",
-    "text": null,
+    "text": "Real Madrid TV: Canal oficial do lendário clube de futebol espanhol Real Madrid. Transmite conteúdos exclusivos como coletivas de imprensa, treinos, jogos históricos, documentários sobre os ídolos, programação sobre as categorias de base e a cobertura diária de tudo que envolve o clube merengue.",
     "category": "Esportes"
   },
   {
     "title": "TV Sonata",
     "cover": "tv-sonata.webp",
     "m3u8": "https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8",
-    "text": null,
+    "text": "TV Sonata: Nome poético e musical. Pode ser um canal dedicado à música erudita, de concerto e instrumental, ou simplesmente um nome distintivo para uma emissora local ou comunitária que busca transmitir uma imagem de harmonia e qualidade em sua programação.",
     "category": "Variedades"
   },
   {
@@ -1445,7 +1445,7 @@
     "title": "BS TV",
     "cover": "bs-tv-online.webp",
     "m3u8": "https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8",
-    "text": null,
+    "text": "BS TV: Iniciais que podem significar diversas coisas, como uma marca própria (ex: Bom Senso TV) ou referência a uma localidade. É um canal que, pela brevidade do nome, busca uma identidade moderna e fácil de memorizar, possivelmente com programação jovem ou de nicho.",
     "category": "WebTV"
   },
   {
@@ -1459,14 +1459,14 @@
     "title": "TVR Sul",
     "cover": "tvr-sul.webp",
     "m3u8": "https://5a57bda70564a.streamlock.net/tvrsul/tvrsul.sdp/playlist.m3u8",
-    "text": null,
+    "text": "TVR Sul: Provavelmente TV Regional Sul, uma emissora com atuação na região sul de um estado ou do país. Pode ser uma afiliada de uma rede menor ou um canal independente que cobre notícias e entretenimento para cidades de uma determinada área meridional.",
     "category": "WebTV"
   },
   {
     "title": "TV Nostalgia",
     "cover": "tv-nostalgia.webp",
     "m3u8": "https://stmv3.webtvninjas.com.br/lucas5554/lucas5554/playlist.m3u8",
-    "text": null,
+    "text": "TV Nostalgia: Canal dedicado ao resgate de memórias afetivas. Sua programação é composta por filmes clássicos, seriados antigos, programas de auditório das décadas passadas e comerciais vintage, criando uma experiência imersiva para quem quer reviver os bons tempos da TV e do rádio.",
     "category": "WebTV"
   },
   {
@@ -1487,49 +1487,49 @@
     "title": "TV Avant",
     "cover": "tv-avant.webp",
     "m3u8": "https://video04.logicahost.com.br/tvavant/tvavant/playlist.m3u8",
-    "text": null,
+    "text": "TV Avant: Nome que significa à frente em francês, indicando um canal com pretensão de vanguarda. Sua programação pode privilegiar o cinema de arte, documentários de ponta, debates intelectuais e produções experimentais, visando um público com interesse por cultura e inovação.",
     "category": "WebTV"
   },
   {
     "title": "Cine Trianon TV",
     "cover": "cine-trianon-tv.webp",
     "m3u8": "https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8",
-    "text": null,
+    "text": "Cine Trianon TV: Canal segmentado para cinéfilos, possivelmente com foco em filmes clássicos, arte e ensaio. O nome Trianon evoca elegância e tradição (remetendo a salas de cinema históricas), sugerindo uma curadoria cuidadosa e um apreço pela sétima arte em sua forma mais pura.",
     "category": "Filmes"
   },
   {
     "title": "LivreTV",
     "cover": "livretv.webp",
     "m3u8": "https://video02.logicahost.com.br/livretv/livretv/playlist.m3u8",
-    "text": null,
+    "text": "LivreTV: Nome que defende a liberdade de expressão e programação. Pode ser um canal comunitário, independente ou até uma plataforma que agrega conteúdos de diversos produtores, sem amarras editoriais fortes de grandes grupos, priorizando a pluralidade e a diversidade de vozes.",
     "category": "WebTV"
   },
   {
     "title": "Catve",
     "cover": "catve.webp",
     "m3u8": "https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8",
-    "text": null,
+    "text": "Catve: Sigla para Canal de Televisão, é um nome comum para emissoras locais ou comunitárias. A Catve geralmente opera em uma cidade de porte médio, fornecendo a cobertura jornalística local essencial e programas que refletem os interesses imediatos da comunidade onde está inserida.",
     "category": "Notícias"
   },
   {
     "title": "ISTV",
     "cover": "istv.webp",
     "m3u8": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8",
-    "text": null,
+    "text": "ISTV: Iniciais que podem significar Igreja Sal e Terra TV ou outra denominação religiosa. É, portanto, um canal evangélico que transmite cultos, estudos bíblicos, programas musicais e de entrevistas, com o objetivo de difundir os valores e a doutrina de sua instituição mantenedora.",
     "category": "Variedades"
   },
   {
     "title": "Record TV",
     "cover": "record-tv.webp",
     "m3u8": "https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
-    "text": null,
+    "text": "Record TV: Uma das cinco maiores redes de televisão aberta do Brasil, pertencente ao Grupo Record. Tem sua programação baseada em jornalismo policial e popular (como o Cidade Alerta), novelas próprias, programas de auditório e telejornais, mantendo uma forte audiência em todo o país.",
     "category": "TV Aberta"
   },
   {
     "title": "Rede SPTV",
     "cover": "rede-sptv.webp",
     "m3u8": "https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8",
-    "text": null,
+    "text": "Rede SPTV: Este não é um canal independente, mas sim a marca do sinal regional da TV Globo para o estado de São Paulo. É uma das operações de jornalismo regional mais importantes do país, dividida em dois editores principais: o SPTV 1ª Edição (ao meio-dia) e o SPTV 2ª Edição (no início da noite). Sua redação central, localizada no bairro do Sumaré na capital paulista, produz e coordena a maior parte da programação, mas conta com uma extensa rede de sucursais e repórteres espalhados por todo o estado. O SPTV é a principal fonte de notícias regionalizadas para milhões de paulistas, cobrindo com profundidade e capilaridade desde a política e a economia da maior metrópole do país até os acontecimentos do interior, passando por trânsito, tempo e grande cobertura policial. Sua credibilidade e alcance o tornam um verdadeiro canal dentro do canal, essencial para a audiência e a identidade da Globo no estado mais populoso do Brasil.",
     "category": "WebTV"
   },
   {
@@ -1564,21 +1564,21 @@
     "title": "Alternativa WebTV",
     "cover": "alternativa-tv-ivai.webp",
     "m3u8": "https://stmv2.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8",
-    "text": null,
+    "text": "Alternativa WebTV: Como o nome indica, é uma WebTV que se posiciona como uma alternativa aos meios tradicionais. Transmite exclusivamente pela internet conteúdos que vão de debates políticos marginais e cultura alternativa a produções artísticas independentes e jornalismo comunitário.",
     "category": "WebTV"
   },
   {
     "title": "TV Ondas Play",
     "cover": "tv-ondas-play.webp",
     "m3u8": "https://stmv5.samcast.com.br/portalondasdemarica/portalondasdemarica/playlist.m3u8",
-    "text": null,
+    "text": "TV Ondas Play: Nome que combina o conceito de transmissão (ondas) com o de entretenimento sob demanda (play). Pode ser um canal de IPTV ou um serviço de streaming local/regional que oferece uma grade linear de programação variada, focada em filmes, séries e conteúdo local.",
     "category": "WebTV"
   },
   {
     "title": "TV NBN",
     "cover": "tvnbn.webp",
     "m3u8": "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8",
-    "text": null,
+    "text": "TV NBN: Iniciais que podem representar uma marca, como Nova Brasil Norte ou algo similar. É um canal que, pelo nome abreviado, busca uma identidade neutra e moderna, possivelmente atuando como afiliada de uma rede ou como um canal generalista independente em alguma região.",
     "category": "WebTV"
   },
   {
@@ -1606,14 +1606,14 @@
     "title": "TV Precabura",
     "cover": "tv-precabura.webp",
     "m3u8": "https://srv1.zcast.com.br/webtvprecabura/webtvprecabura/playlist.m3u8",
-    "text": null,
+    "text": "TV Precabura: Emissora local do distrito de Precabura, na cidade de Caucaia, região metropolitana de Fortaleza, no Ceará. É um canal comunitário vital para integrar e informar os moradores dessa localidade específica, abordando temas do cotidiano e fortalecendo os laços da comunidade.",
     "category": "WebTV"
   },
   {
     "title": "TVídeoNews",
     "cover": "tvideonews.webp",
     "m3u8": "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8",
-    "text": null,
+    "text": "TVídeoNews: Nome que funde TV, vídeo e news (notícias em inglês). Trata-se de um canal de notícias com forte presença digital, que provavelmente produz conteúdo multimídia para diversas plataformas, com reportagens em vídeo curtas e dinâmicas, muito voltadas para as redes sociais.",
     "category": "Documentários"
   },
   {
@@ -1627,14 +1627,14 @@
     "title": "TV Amplitude Juína",
     "cover": "tv-amplitude-juina.webp",
     "m3u8": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
-    "text": null,
+    "text": "TV Amplitude Juína: Emissora da cidade de Juína, no noroeste do estado de Mato Grosso. O Amplitude no nome pode se referir à sua potência de sinal ou à abrangência de sua cobertura na região. Foca na realidade do povo mato-grossense do norte, incluindo temas indígenas e do agronegócio de fronteira.",
     "category": "TV Aberta"
   },
   {
     "title": "Os Jetsons TV",
     "cover": "os-jetsons-tv.webp",
     "m3u8": "https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8",
-    "text": null,
+    "text": "Os Jetsons TV: Canal temático inspirado na famosa animação futurista Os Jetsons. Sua programação provavelmente é voltada para o público infantil e familiar, exibindo desenhos animados clássicos e modernos, com uma identidade visual que remete à estética retrô-futurista da série.",
     "category": "24 horas"
   },
   {
@@ -1669,14 +1669,14 @@
     "title": "RBATV",
     "cover": "rbatv.webp",
     "m3u8": "https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8",
-    "text": null,
+    "text": "RBATV: Sigla que pode significar Rádio e TV associada a uma instituição (ex: uma fundação ou uma marca regional). É um canal que opera integrado a uma emissora de rádio, possivelmente com uma programação que inclui transmissão de programas de áudio com imagens e conteúdo jornalístico local.",
     "category": "TV Aberta"
   },
   {
     "title": "Plena TV",
     "cover": "plena-tv.webp",
     "m3u8": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8",
-    "text": null,
+    "text": "Plena TV: Nome que transmite a ideia de completude, satisfação e bem-estar. Pode ser um canal focado em qualidade de vida, espiritualidade (não necessariamente religiosa), autoajuda, programas sobre saúde holística e conteúdos que buscam a plenitude física, mental e emocional do telespectador.",
     "category": "Variedades"
   },
   {
@@ -1704,7 +1704,7 @@
     "title": "Entorno Sul WebTV",
     "cover": "entorno-sul-webtv.webp",
     "m3u8": "https://video01.kshost.com.br/manoel2072/manoel2072/playlist.m3u8",
-    "text": null,
+    "text": "Entorno Sul WebTV: WebTV com foco na região do Entorno Sul do Distrito Federal, que inclui cidades goianas como Valparaíso e Luziânia. Seu conteúdo é essencial para noticiar os fatos dessa importante região metropolitana de Brasília, que possui dinâmicas e desafios próprios.",
     "category": "WebTV"
   },
   {
@@ -1718,7 +1718,7 @@
     "title": "TV História",
     "cover": "tv-historia.webp",
     "m3u8": "https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8",
-    "text": null,
+    "text": "TV História: Canal educacional e documental dedicado exclusivamente à História. Sua programação é composta por documentários sobre civilizações antigas, guerras, biografias de personagens históricos e séries que reconstituem eventos passados, sendo uma ferramenta para educação e entretenimento intelectual.",
     "category": "Documentários"
   },
   {
@@ -1739,35 +1739,35 @@
     "title": "Fala Litoral WebTV",
     "cover": "fala-litoral-webtv.webp",
     "m3u8": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8",
-    "text": null,
+    "text": "Fala Litoral WebTV: WebTV com atuação e identidade voltadas para o litoral de algum estado. Como Fala sugere participação, deve dar voz aos moradores das cidades costeiras, abordando temas como turismo, pesca, preservação ambiental, veraneio e os problemas urbanos típicos das regiões litorâneas.",
     "category": "WebTV"
   },
   {
     "title": "TV Biguaçu",
     "cover": "tv-biguacu.webp",
     "m3u8": "https://59f1cbe63db89.streamlock.net:1443/biguawebtv/_definst_/biguawebtv/playlist.m3u8",
-    "text": null,
+    "text": "TV Biguaçu: Emissora do município de Biguaçu, na região da Grande Florianópolis, em Santa Catarina. É o principal meio de comunicação local, cobrindo a política municipal, a economia (com forte presença da indústria) e a cultura da cidade, que tem uma rica herança açoriana.",
     "category": "WebTV"
   },
   {
     "title": "TV Difusora",
     "cover": "tv-difusora.webp",
     "m3u8": "https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8",
-    "text": null,
+    "text": "TV Difusora: Nome clássico e comum para várias emissoras regionais históricas no Brasil (ex: TV Difusora de São Luís). Geralmente são afiliadas a redes nacionais e têm grande tradição e penetração em seus estados, sendo sinônimo de televisão local consolidada e de credibilidade.",
     "category": "TV Aberta"
   },
   {
     "title": "TVGeral",
     "cover": "tvgeral.webp",
     "m3u8": "https://video05.logicahost.com.br/tvgeral/tvgeral/playlist.m3u8",
-    "text": null,
+    "text": "TVGeral: Nome que sugere um canal com programação generalista, que tenta agradar a um público amplo. Pode exibir um pouco de tudo: filmes, séries, programas de auditório, jornalismo e esportes, com a proposta de ser uma opção segura e abrangente para o telespectador.",
     "category": "WebTV"
   },
   {
     "title": "Nova Era TV",
     "cover": "netv.webp",
     "m3u8": "https://5a2b083e9f360.streamlock.net/novaeratv/novaeratv.sdp/playlist.m3u8",
-    "text": null,
+    "text": "Nova Era TV: Nome que carrega um significado de renovação e novos tempos. Pode ser um canal religioso (ligado à doutrina espírita ou a correntes cristãs que usam o termo), ou um canal de conteúdo alternativo sobre espiritualidade, esoterismo, ecologia e novas formas de pensar a sociedade.",
     "category": "WebTV"
   },
   {
@@ -1781,14 +1781,14 @@
     "title": "Auge Esportes",
     "cover": "auge-esportes.webp",
     "m3u8": "https://video04.logicahost.com.br/augeesportes/augeesportes/playlist.m3u8",
-    "text": null,
+    "text": "Auge Esportes: Canal segmentado dedicado à cobertura esportiva, com o nome indicando o ponto mais alto da prática. Deve focar em transmissões de competições, análises técnicas, programas de debates e matérias sobre atletas, buscando ser referência para os fãs de esportes.",
     "category": "Esportes"
   },
   {
     "title": "TV Guará",
     "cover": "tv-guara.webp",
     "m3u8": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8",
-    "text": null,
+    "text": "TV Guará: Emissora da região administrativa do Guará, no Distrito Federal, ou da cidade de Guará, no interior de São Paulo. É um canal comunitário ou local que serve para informar os moradores sobre os assuntos específicos dessa localidade, promovendo a integração e a cidadania.",
     "category": "Notícias"
   },
   {
@@ -1802,7 +1802,7 @@
     "title": "TV Cidade Verde",
     "cover": "tv-cidade-verde.webp",
     "m3u8": "https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8",
-    "text": null,
+    "text": "TV Cidade Verde: Nome comum para emissoras em cidades com forte apelo ecológico ou arborização. Pode ser uma afiliada da Rede Cidade Verde no Piauí ou uma emissora local em qualquer cidade que queira associar sua imagem à sustentabilidade e ao meio ambiente.",
     "category": "TV Aberta"
   },
   {
@@ -1816,7 +1816,7 @@
     "title": "TV Mais Maricá",
     "cover": "tv-mais-marica.webp",
     "m3u8": "https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8",
-    "text": null,
+    "text": "TV Mais Maricá: Canal local da cidade de Maricá, na região metropolitana do Rio de Janeiro, cidade que ganhou notoriedade nos últimos anos por políticas sociais inovadoras. A TV cobre essa efervescência local, os desafios do crescimento urbano acelerado e a vida comunitária.",
     "category": "WebTV"
   },
   {
@@ -1837,7 +1837,7 @@
     "title": "Cabo Frio TV",
     "cover": "cabo-frio-tv.webp",
     "m3u8": "https://video05.logicahost.com.br/ararutv/ararutv/playlist.m3u8",
-    "text": null,
+    "text": "Cabo Frio TV: Emissora da cidade turística de Cabo Frio, na Região dos Lagos do Rio de Janeiro. Sua programação é fortemente influenciada pelo ritmo da cidade, com ênfase no turismo de verão, na cultura local, nos eventos sazonais e nas questões ambientais relacionadas às lagoas e ao mar.",
     "category": "TV Local"
   },
   {
@@ -1879,35 +1879,35 @@
     "title": "Esportes Brasília TV",
     "cover": "esportes-df.webp",
     "m3u8": "https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8",
-    "text": null,
+    "text": "Esportes Brasília TV: Canal esportivo com foco na capital federal e em seu entorno. Cobre as modalidades e os times locais (como futebol, basquete e automobilismo), além de dar espaço para atletas da região, sendo a principal referência para os amantes de esportes no Planalto Central.",
     "category": "Esportes"
   },
   {
     "title": "TV Clube Web",
     "cover": "tv-clube-web.webp",
     "m3u8": "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8",
-    "text": null,
+    "text": "TV Clube Web: A versão para internet de uma emissora tradicional chamada TV Clube (nome comum no Nordeste, como a TV Clube de Pernambuco). Leva a programação da TV aberta para a web, ampliando seu alcance e permitindo interatividade e conteúdo complementar online.",
     "category": "WebTV"
   },
   {
     "title": "TV Pai Eterno",
     "cover": "tv-pai-eterno.webp",
     "m3u8": "https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8",
-    "text": null,
+    "text": "TV Pai Eterno: Canal religioso católico, ligado à devoção do Divino Pai Eterno, com forte base em Trindade, Goiás, onde está o Santuário. Sua programação transmite missas, romarias, novenas e documentários sobre a fé católica, especialmente voltados para essa importante devoção brasileira.",
     "category": "Religiosos"
   },
   {
     "title": "TV Nova Juarez",
     "cover": "tv-nova-juarez.webp",
     "m3u8": "https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8",
-    "text": null,
+    "text": "TV Nova Juarez: Emissora local provavelmente da cidade de Juarez Távora, na Paraíba, ou de outra cidade com o nome Juarez. Como canal regional, sua função é informar a comunidade sobre os acontecimentos locais, a política municipal e os eventos culturais, fortalecendo a identidade da cidade.",
     "category": "WebTV"
   },
   {
     "title": "Canal 25",
     "cover": "canal-25.webp",
     "m3u8": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
-    "text": null,
+    "text": "Canal 25: Nome que se refere simplesmente ao número do canal na sintonia da TV aberta ou por assinatura em determinada região. Pode ser a identificação de uma emissora local, comunitária ou educativa que é popularmente conhecida pelo seu número no dial, simplificando sua identificação pelo público.",
     "category": "Variedades"
   },
   {
