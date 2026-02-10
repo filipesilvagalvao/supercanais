@@ -8,8 +8,8 @@ import Script from "next/script";
 const baseUrl = process.env.NEXT_PUBLIC_SITE_URL!
 
 export const metadata: Metadata = {
-  title: "Supercanais",
-  description: "Um site para você assistir tv online de graça. Selecione seu programa de tv favorito ou encontre outros.",
+  title: "Supercanais - TV online grátis ✔️",
+  description: "Assista TV online grátis com diversos canais ao vivo. Encontre seu programa favorito, explore categorias e descubra novos conteúdos de forma simples e rápida.",
   openGraph: {
     title: "Supercanais  — canais de tv",
     description:
