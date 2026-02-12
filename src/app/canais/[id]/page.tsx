@@ -3,6 +3,7 @@ import styles from "./Canais.module.css"
 import getChannels from "@/functions/getChanels"
 import slugify from "@/functions/slugfy"
 import Video_Player from "@/componets/video_player/Video_Player"
+import Script from "next/script"
 
 const baseUrl = process.env.NEXT_PUBLIC_SITE_URL!
 
@@ -28,7 +29,7 @@ export async function generateMetadata({ params }: { params: { id: string } }) {
             ],
         },
         alternates: {
-            canonical: baseUrl+"/"+slugify(`${content?.title}`),
+            canonical: baseUrl + "/" + slugify(`${content?.title}`),
         }
     }
 }
