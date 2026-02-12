@@ -3,7 +3,7 @@ import styles from "./Canais.module.css"
 import getChannels from "@/functions/getChanels"
 import slugify from "@/functions/slugfy"
 import Video_Player from "@/componets/video_player/Video_Player"
-import Script from "next/script"
+import Banners from "@/componets/banners/Banners"
 
 const baseUrl = process.env.NEXT_PUBLIC_SITE_URL!
 
@@ -62,6 +62,7 @@ async function page({ params }: { params: { id: string } }) {
                         </div>
                     }
                 </section>
+                <Banners/>
             </div>
         </main>
     )

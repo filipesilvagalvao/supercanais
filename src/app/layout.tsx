@@ -61,6 +61,7 @@ export default function RootLayout({
       <body>
         <Header />
         {children}
+        <script src="https://pl28702337.effectivegatecpm.com/23/d6/85/23d68593f3032be961415d86c316ea79.js"></script>
         <Footer />
       </body>
     </html>
