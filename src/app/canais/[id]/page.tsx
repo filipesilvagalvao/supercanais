@@ -29,7 +29,7 @@ export async function generateMetadata({ params }: { params: { id: string } }) {
             ],
         },
         alternates: {
-            canonical: baseUrl + "/" + slugify(`${content?.title}`),
+            canonical:"/" + slugify(`${content?.title}`),
         }
     }
 }

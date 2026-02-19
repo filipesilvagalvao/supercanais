@@ -8,8 +8,12 @@ import Script from "next/script";
 const baseUrl = process.env.NEXT_PUBLIC_SITE_URL!
 
 export const metadata: Metadata = {
+  metadataBase: new URL(baseUrl),
   title: "Supercanais - TV online grátis ✔️",
   description: "Assista TV online grátis com diversos canais ao vivo. Encontre seu programa favorito, explore categorias e descubra novos conteúdos de forma simples e rápida.",
+   alternates: {
+    canonical: "/",
+  },
   openGraph: {
     title: "Supercanais  — canais de tv",
     description:
@@ -37,11 +41,6 @@ export default function RootLayout({
   return (
     <html lang="pt-br">
       <head>
-        <link
-          rel="canonical"
-          href={baseUrl}
-          key="canonical"
-        />
         <script src="https://cdn.jsdelivr.net/npm/clappr@0.3.13/dist/clappr.min.js" defer></script>
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-EE3JQHNF34"
